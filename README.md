@@ -1,6 +1,5 @@
 ## Hi there, I'm Riley 👋
-I'm a just your average gamer and a Minecraft Bedrock developer.
-I like to tinker with the game, find bugs and create Add-Ons and Servers using Script API.
+I'm a just your average gamer and a Minecraft Bedrock developer.<br>I like to tinker with the game, find bugs and create Add-Ons and Servers using Script API.
 
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: Discord (**@wimziicals**)
@@ -19,4 +18,4 @@ I like to tinker with the game, find bugs and create Add-Ons and Servers using S
 ![Discord](https://img.shields.io/badge/Discord-@wimziicals-5865F2?style=flat&logo=discord&logoColor=white)
 
 ### 📊 GitHub Stats
-![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wimziicals&show_icons=true&theme=radical)
+![Riley's GitHub Streak](https://streak-stats.demolab.com?user=wimziicals&theme=radical)
