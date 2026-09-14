@@ -1,4 +1,4 @@
-## Hi there, I'm Riley 👋
+## Hey there, I'm Wimziicals 👋
 I'm just your average gamer and a Minecraft Bedrock developer.<br>I like to tinker with the game, find bugs and create Add-Ons and Servers using Script API.
 
 - 💬 Ask me about: TypeScript, or game & backend logic
